@@ -36,7 +36,7 @@ Screenshot                                  |                Screenshot
 
 
 ## TASK 2: EXPERIMENTATION AND UPLIFT TESTING
-Carried out analysis on experimented stores to find out if the impact of the new trial layout and to see if it can be rolled out to the other stores.Charts generated include the following;
+An analysis was also done on experimented stores to find out the impact of the new trial layout of the experimented stores and to see if it can be rolled out to the other stores.Charts generated include the following;
 
 Screenshot                                  |                Screenshot
 :-----------------------------------------: | :-----------------------------------------:
